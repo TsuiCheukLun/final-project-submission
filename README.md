@@ -34,7 +34,7 @@
 - assets/ (directory for any assets such as images and videos)
 - pubspec.yaml (dependency and asset management file)
 
-Following OOP style:
+Following OOP styles:
 * encapsulation
 * inheritance
 * polymorphism
